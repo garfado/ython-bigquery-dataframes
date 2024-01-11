@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/bigframes/#history
 
+## [0.19.1](https://github.com/googleapis/python-bigquery-dataframes/compare/v0.19.0...v0.19.1) (2024-01-11)
+
+
+### Bug Fixes
+
+* Handle multi-level columns for df aggregates properly ([#305](https://github.com/googleapis/python-bigquery-dataframes/issues/305)) ([5bb45ba](https://github.com/googleapis/python-bigquery-dataframes/commit/5bb45ba5560f178438d490a62520ccd36fd2f284))
+* Update max_output_token limitation. ([#308](https://github.com/googleapis/python-bigquery-dataframes/issues/308)) ([5cccd36](https://github.com/googleapis/python-bigquery-dataframes/commit/5cccd36fd2081becd741541c4ac8d5cf53c076f2))
+
 ## [0.19.0](https://github.com/googleapis/python-bigquery-dataframes/compare/v0.18.0...v0.19.0) (2024-01-09)
 
 
